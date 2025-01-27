@@ -41,5 +41,5 @@ Link to chat bot :``
 https://mediafiles.botpress.cloud/2443abf8-9e24-4cb1-9926-c0b8832d1af0/webchat/bot.html
 ```
 
-![alt text](https://github.com/user-attachments/assets/adb1ac8a-9ef2-4dac-873b-1aecb050eeff)0
+![alt text](https://github.com/user-attachments/assets/adb1ac8a-9ef2-4dac-873b-1aecb050eeff)
 
