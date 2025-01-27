@@ -35,5 +35,5 @@ friends or colleagues who test the bot. Based on their input, adjustments will b
 appearance and functionality. Finally, to maintain its usefulness and reliability, Luxy's 
 performance will be monitored and adjustments are made as needed.```
 
-![image](https://github.com/user-attachments/assets/adb1ac8a-9ef2-4dac-873b-1aecb050eeff)
+![alt text](https://github.com/user-attachments/assets/adb1ac8a-9ef2-4dac-873b-1aecb050eeff)
 
