@@ -1,0 +1,9 @@
+[submodule "pong"]
+	path = pong
+	url = https://github.com/prempraneethkota/Pong
+[submodule "Briefbot"]
+	path = Briefbot
+	url = https://github.com/prempraneethkota/BriefBot
+[submodule "Cats_"]
+	path = Cats_
+	url = https://github.com/prempraneethkota/Cats_and_dogs_classifier
