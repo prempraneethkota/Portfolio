@@ -35,6 +35,11 @@ friends or colleagues who test the bot. Based on their input, adjustments will b
 appearance and functionality. Finally, to maintain its usefulness and reliability, Luxy's 
 performance will be monitored and adjustments are made as needed.
 ```
+``
+Link to chat bot :``
+```
+https://mediafiles.botpress.cloud/2443abf8-9e24-4cb1-9926-c0b8832d1af0/webchat/bot.html
+```
 
-![alt text](https://github.com/user-attachments/assets/adb1ac8a-9ef2-4dac-873b-1aecb050eeff)
+![alt text](https://github.com/user-attachments/assets/adb1ac8a-9ef2-4dac-873b-1aecb050eeff)0
 
