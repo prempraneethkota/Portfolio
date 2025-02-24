@@ -1,16 +1,46 @@
-# Portfolio of AI Projects
-
-Welcome to my AI portfolio, where I showcase a range of exciting projects that leverage deep learning, natural language processing, and computer vision techniques. Below is an overview of the projects included in this repository:
-
-## Projects
-
-1. **[Text Summarization with BART](#text-summarization-with-bart)**
-2. **[Dueling DQN and Standard DQN for Pong](#dueling-dqn-and-standard-dqn-for-pong)**
-3. **[Luxy: Hotel Booking Chatbot](#luxy-hotel-booking-chatbot)**
-4. **[Cat vs Dog Image Classifier](#cat-vs-dog-image-classifier)**
+Here’s your updated portfolio with the image forgery detection project added:  
 
 ---
 
+# Portfolio of AI Projects  
+
+Welcome to my AI portfolio, where I showcase a range of exciting projects that leverage deep learning, natural language processing, and computer vision techniques. Below is an overview of the projects included in this repository:  
+
+## Projects  
+
+1. **[Image Forgery Detection Using Hybrid Deep Learning](#image-forgery-detection-using-hybrid-deep-learning)**  
+2. **[Text Summarization with BART](#text-summarization-with-bart)**  
+3. **[Dueling DQN and Standard DQN for Pong](#dueling-dqn-and-standard-dqn-for-pong)**  
+4. **[Luxy: Hotel Booking Chatbot](#luxy-hotel-booking-chatbot)**  
+5. **[Cat vs Dog Image Classifier](#cat-vs-dog-image-classifier)**  
+
+---  
+
+## Image Forgery Detection Using Hybrid Deep Learning  
+
+This project aims to detect manipulated images using a hybrid approach that combines deep learning with traditional image processing methods. The model integrates MobileNetV2, Enhanced Laplacian of Gaussian (ELA), and Local Binary Patterns (LBP) to detect forgery in images, even with limited training data.  
+
+### Features:  
+- **Hybrid Model**: Combines deep learning (MobileNetV2) with traditional techniques (ELA & LBP).  
+- **Forgery Detection**: Identifies image manipulations by analyzing compression artifacts and texture changes.  
+- **Efficient Training**: Uses transfer learning and feature extraction to work effectively with small datasets.  
+
+### Installation:  
+```bash
+git clone https://github.com/your-repository/image-forgery-detection.git  
+cd image-forgery-detection  
+pip install tensorflow opencv-python numpy  
+```  
+
+### Usage:  
+To train the model:  
+```bash
+python train_model.py  
+```  
+To test on new images:  
+```bash
+python test_model.py --image path/to/image.jpg  
+```   
 ## Text Summarization with BART
 
 This project demonstrates the implementation of a text summarization model using the BART (Bidirectional and Auto-Regressive Transformers) architecture from the `transformers` library. The model is trained on the CNN/DailyMail dataset to generate concise and coherent summaries of input articles.
