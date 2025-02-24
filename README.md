@@ -27,8 +27,8 @@ This project aims to detect manipulated images using a hybrid approach that comb
 
 ### Installation:  
 ```bash
-git clone https://github.com/your-repository/image-forgery-detection.git  
-cd image-forgery-detection  
+git clone https://github.com/prempraneethkota/ForgeryDetection_ELA-LBP-MobileNetV2-CNN.git  
+cd ForgeryDetection_ELA-LBP-MobileNetV2-CNN 
 pip install tensorflow opencv-python numpy  
 ```  
 
