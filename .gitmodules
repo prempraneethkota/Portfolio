@@ -7,3 +7,6 @@
 [submodule "Cats_"]
 	path = Cats_
 	url = https://github.com/prempraneethkota/Cats_and_dogs_classifier
+[submodule "ForgeryDetection"]
+	path = ForgeryDetection
+	url = https://github.com/prempraneethkota/ForgeryDetection_ELA-LBP-MobileNetV2-CNN.git
